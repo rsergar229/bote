@@ -69,7 +69,7 @@ public class Bote {
     private int contenido;//Centilitros de pintura disponibles en el bote
     private int centilitros_metro;//Centrilitros necesarios para pintar un metro cuadrado
     private String color;//Color de la pintura
-    private int precio;//Precio en céntimos del centilitro de pintura
+    private int precio;//Precio en céntimos del centilitro de pintura mola
     private int capacidad;//Número máximo de centilitros que caben en el bote
     
     /*Constructor por defecto*/
